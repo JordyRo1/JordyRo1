@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JordyRo1
 - 👀 I’m interested in ethereum, starknet and life. 
-- 🌱 I’m currently learning Cairo
+- 🌱 Full Stack and Blockchain engineer.
 
 
 <!---
